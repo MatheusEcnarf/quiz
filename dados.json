@@ -1,0 +1,123 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ",
+        "correct_answer": "Polio",
+        "incorrect_answers": [
+          "Cancer",
+          "Meningitis",
+          "HIV"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The body of the Egyptian Sphinx was based on which animal?",
+        "correct_answer": "Lion",
+        "incorrect_answers": [
+          "Bull",
+          "Horse",
+          "Dog"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Blinky, Pinky, Inky and Clyde are characters from which classic video game?",
+        "correct_answer": "Pac-Man",
+        "incorrect_answers": [
+          "Gauntlet",
+          "Space Invaders",
+          "Street Fighter"
+        ]
+      },
+      {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the anime &quot;Mr. Osomatsu&quot;, how many brothers does Osomatsu-san have?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "6",
+          "7",
+          "4"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these songs is not by Tatsuro Yamashita?",
+        "correct_answer": "Lucky Lady Feel So Good ",
+        "incorrect_answers": [
+          "Merry-Go Round",
+          "Let&#039;s Dance Baby",
+          "Love Talkin&#039;"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the area of Vatican City?",
+        "correct_answer": "0.44km^2",
+        "incorrect_answers": [
+          "0.10km^2",
+          "0.86km^2",
+          "12.00km^2"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Pluto is a planet.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following colors does the Zombie eyes glow in the &quot;Nuketown&quot; map in &quot;Call of Duty: Black Ops II&quot; Zombies mode?",
+        "correct_answer": "Yellow and Blue",
+        "incorrect_answers": [
+          "Yellow and Red",
+          "Red and Blue",
+          "Blue and White"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+        "correct_answer": "San Francisco",
+        "incorrect_answers": [
+          "Los Angeles",
+          "Sacramento",
+          "San Jose"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "correct_answer": "Thomas Jefferson",
+        "incorrect_answers": [
+          "Martin Van Buren",
+          "Ulysses Grant",
+          "John Quincy Adams"
+        ]
+      }
+    ]
+  }
