@@ -1,6 +1,6 @@
 var allAnswers = [];
 var allCAnswers = [];
-var url = "https://matheusecnarf.ddns.net/quiz/dados.json";
+var url = "./dados.json";
 window.onload = async function () {
 
     var size = [window.width,window.height];  //public variable
