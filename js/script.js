@@ -1,5 +1,6 @@
 var allAnswers = [];
 var allCAnswers = [];
+var url = "https://matheusecnarf.ddns.net/quiz/dados.json";
 window.onload = async function () {
 
     var size = [window.width,window.height];  //public variable
@@ -86,7 +87,7 @@ window.onload = async function () {
 
 function allCorrectAwnsers() {
 
-    fetch("../dados.json")
+    fetch(url)
         .then((response => {
             if (response.ok) {
                 response.json().then(value => {
@@ -124,7 +125,7 @@ function nextStep() {
 }
 
 async function buscaDados(actualId) {
-    fetch("../dados.json")
+    fetch(url)
         .then((response => {
             if (response.ok) {
                 response.json().then(value => {
